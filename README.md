@@ -111,9 +111,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📞 Contact
 
-Saket - [Your Email](mailto:your.email@example.com)
+Saket - [saketkhatavkar@gmail.com](mailto:saketkhatavkar@gmail.com)
 
-Project Link: [https://github.com/your-username/react-mini-projects](https://github.com/your-username/react-mini-projects)
+Linkedin: [https://www.linkedin.com/in/sksaket/](https://www.linkedin.com/in/sksaket/)
 
 ---
 
